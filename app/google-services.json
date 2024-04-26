@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "456694649514",
+    "firebase_url": "https://ticketmaster-ef2dc-default-rtdb.firebaseio.com",
+    "project_id": "ticketmaster-ef2dc",
+    "storage_bucket": "ticketmaster-ef2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456694649514:android:2d11429163e7a4ecf5f6d3",
+        "android_client_info": {
+          "package_name": "com.example.ticketmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEU_DYlSu3vejA2xS-8nSY3iLD-tXj4ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
